@@ -1,0 +1,6 @@
+{
+  "name": "Realm AI",
+  "description": "An elegant AI video generator that creates cinematic clips and stories from text prompts, with camera controls, visual style settings, and interactive playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
